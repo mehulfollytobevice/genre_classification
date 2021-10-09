@@ -1,6 +1,6 @@
 voila
 pandas
-spacy
+spacy==2.2.4
 fastai>=2
 packaging
 ipywidgets==7.5.1

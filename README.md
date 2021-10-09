@@ -26,6 +26,8 @@ To test this project using a friendly GUI, follow these steps:
 6. Click Launch.
 7. Wait a while for the application to launch. Afterwards, you can play around with it and share the link with your friends.
 
+It should look like this:
+![binder](https://github.com/mehulfollytobevice/genre_classification/blob/main/pics/binder.PNG)
 
 ##  🏽‍ For Genre Prediction, download our model
 - For genre prediction, download our model manually: **" multi_genre_classifier.pkl "** from the following place in the repository.

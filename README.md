@@ -15,25 +15,6 @@
 - Download the dataset and place it in the main directory.
 - Download from [here](https://www.kaggle.com/tanguypledel/science-fiction-books-subgenres?select=sf_alternate_history.csv) .
 
-
-## :monocle_face: Test this project
-To test this project using a friendly GUI, follow these steps:
-1. Go to https://mybinder.org/
-2. Paste the URL of this repo into Binder’s URL field.
-3. Change the File drop-down to instead select URL.
-4. In the “URL to open” field, enter “/voila/render/genre_classification_app.ipynb”
-5. Click the clipboard button at the bottom right to copy the URL and paste it somewhere safe.
-6. Click Launch.
-7. Wait a while for the application to launch. Afterwards, you can play around with it and share the link with your friends.
-
-It should look like this:
-![binder](https://github.com/mehulfollytobevice/genre_classification/blob/main/pics/binder.PNG)
-
-##  🏽‍ For Genre Prediction, download our model
-- For genre prediction, download our model manually: **" multi_genre_classifier.pkl "** from the following place in the repository.
-- https://github.com/mehulfollytobevice/genre_classification/tree/main/models
-- Download the file and place it into **" ./models/ ".** folder.
-
 ## :hammer_and_wrench: Requirements
 * Python 3.5+
 * voila

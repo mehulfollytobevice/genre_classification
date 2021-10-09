@@ -1,4 +1,5 @@
 voila
+pandas
 fastai>=2
 packaging
 ipywidgets==7.5.1

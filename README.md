@@ -1,4 +1,4 @@
-# Judging Books By Their Cover  
+# Judging Books By Their Cover: A Multi-Label Genre Classification System
 
 - This repository contains the code for the **Judging Books By Their Cover** project.
 - This project aims to create a multi-label classification system capable of predicting the genres of a book.

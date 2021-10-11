@@ -8,7 +8,7 @@
 In the past decade, online bookstores/ e-commerce websites have taken over traditional bookstores. Most people now order their books online.  In such a scenario, e-bookstores face the challenge of effectively organizing the books according to parameters like genres, ratings, user votes, etc. Each book can belong to multiple genres and appeal to different people. The task is to create a system that can predict the genres of a book based on its description and help in the effective organization of data.  
 
 
-## 📝 Description
+## 📝 Solution
 - Multi-Label Classification refers to the problem of identifying the categories for input data that may belong to multiple categories simultaneously. There may be more than one label for the input data, or there may be no matching labels at all. This approach is excellent for problems like genre classification, where each input text represents a unique blend of different genres. Furthermore, the flexibility of this approach allows us to take care of situations where the input data does not belong to any of the categories in the dataset. This saves us from generating wrong predictions which can be misleading or harmful.
 - In this project, we use the ULMFit approach to create a multi-label classifier which can accomplish the aforementioned task.
 - We use the **AWD-LSTM** pre-trained language model provided by fastai and fine-tune it on our dataset. After fine-tuning, we use transfer learning to create the multi-label genre predictor. 

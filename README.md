@@ -31,6 +31,9 @@ In the past decade, online bookstores/ e-commerce websites have taken over tradi
 * voila
 * fastai
 * spacy==2.2.4
+* matplotlib
+* seaborn
+* plotly
 * packaging
 * ipywidgets==7.5.1
 * Linux
